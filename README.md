@@ -27,11 +27,7 @@
 
 <br/> 
 
-[![Wolferados's github stats](https://github-readme-stats.vercel.app/api?username=Wolferado&theme=dark&text_color=FFD700&icon_color=FFD700)](https://github.com/Wolferado/github-readme-stats)
-
-<br/>
-
-[![The most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolferado&theme=dark)](https://github.com/Wolferado/github-readme-stats)
+[![Wolferados's github stats](https://github-readme-stats.vercel.app/api?username=Wolferado&theme=dark&text_color=FFD700&icon_color=FFD700)](https://github.com/Wolferado/github-readme-stats)        [![The most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolferado&theme=dark&layout=compact)](https://github.com/Wolferado/github-readme-stats)
 
 [Datorium]: https://datorium.eu/
 [Chromium]: https://www.chromium.org/
