@@ -4,10 +4,10 @@
 
 ### Some useful facts about me: ###
 - 🎓 I'm a student at European Coding School [Datorium][Datorium].
-- ✍ I love to create 8-bit designs and use them in my projects, such as games.
-- 🏆 I successfully led a project of creating a browser based on [Chromium][Chromium] with other [Datorium][Datorium] students.
-- 📖 I enjoy finding out something new that could be used later on in life in the most efficient way possible.
-- 🎞 I'm amateur in video-editing, for example in [Wondershare Filmora][Filmora].
+- ✍ Love to create 8-bit designs and use them in my projects, such as games.
+- 🏆 Successfully led a project of creating a browser based on [Chromium][Chromium] with other [Datorium][Datorium] students.
+- 📖 Enjoy finding out something new that could be used later on in life in the most efficient way possible.
+- 🎞 Amateur in video-editing, for example in [Wondershare Filmora][Filmora].
 
 <br/>
 
