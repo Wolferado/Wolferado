@@ -12,18 +12,18 @@
 <br/>
 
 ### Languages I experiment and work with: ###
-* <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" /> CSharp
-* <img width="18px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" /> JavaScript
-* <img width="18px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" /> Cascading Style Sheets
-* <img width="18px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" /> HyperText Markup Language
+* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" /> CSharp
+* <img width="16px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" /> JavaScript
+* <img width="16px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" /> Cascading Style Sheets
+* <img width="16px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" /> HyperText Markup Language
 
 <br/>
 
 ### Tools which I use to accomplish my goals: ###
-* <img width="18px" src="https://www.shareicon.net/data/256x256/2015/09/15/101512_logo_512x512.png" /> GitHub
-* <img width="18px" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" /> Git
-* <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> Visual Studio 2019
-* <img width="18px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> Visual Studio Code
+* <img width="16px" src="https://www.shareicon.net/data/256x256/2015/09/15/101512_logo_512x512.png" /> GitHub
+* <img width="16px" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" /> Git
+* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> Visual Studio 2019
+* <img width="16px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> Visual Studio Code
 
 <br/> 
 
