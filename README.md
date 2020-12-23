@@ -10,7 +10,7 @@
 5. I'm amateur in video-editing, for example in [Wondershare Filmora][Filmora].
 
 Languages I experiment and work with:
-<img width="26px" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" /> CSharp
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" /> CSharp
 <img width="26px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" /> JavaScript
 <img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" /> Cascading Style Sheets
 <img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" /> HyperText Markup Language
