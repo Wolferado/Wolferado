@@ -25,7 +25,7 @@
 * <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> Visual Studio 2019
 * <img width="18px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> Visual Studio Code
 
-?theme=dark :- [![Wolferados's github stats](https://github-readme-stats.vercel.app/api?username=Wolferado)](https://github.com/Wolferado/github-readme-stats)
+?theme=dark [![Wolferados's github stats](https://github-readme-stats.vercel.app/api?username=Wolferado)](https://github.com/Wolferado/github-readme-stats)
 
 [![The most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolferado)](https://github.com/Wolferado/github-readme-stats)
 
