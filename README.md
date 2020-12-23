@@ -20,16 +20,11 @@
 <br/>
 
 ### Tools which I use to accomplish my goals: ###
-* <img width="18px" src="https://image.flaticon.com/icons/png/512/25/25231.png" /> GitHub
-* <img width="18px" src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" /> Git
+* <img width="18px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> GitHub
+* <img width="18px" src="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo-thumbnail.png" /> Git
 * <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> Visual Studio 2019
 * <img width="18px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> Visual Studio Code
-
-### Where I can be found: ###
-* [<img width="18px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png">][Youtube] YouTube
-* 
 
 [Datorium]: https://datorium.eu/
 [Chromium]: https://www.chromium.org/
 [Filmora]: https://filmora.wondershare.com/
-[Youtube]: https://www.youtube.com/channel/UCG336X5QFZj3BD_DrfxESrA/featured
