@@ -3,11 +3,11 @@
 ## _My name is Wolferado and I'm typical student who is interested in the World of programming._ ##
 
 ### Some useful facts about me: ###
-1. I'm a student at European Coding School [Datorium][Datorium].
-2. I love to create 8-bit designs and use them in my projects, such as games.
-3. I successfully led a project of creating a browser based on [Chromium][Chromium] with other [Datorium][Datorium] students.
-4. I enjoy finding out something new that could be used later on in life in the most efficient way possible.
-5. I'm amateur in video-editing, for example in [Wondershare Filmora][Filmora].
+- 🎓 I'm a student at European Coding School [Datorium][Datorium].
+- ✍ I love to create 8-bit designs and use them in my projects, such as games.
+- 🏆 I successfully led a project of creating a browser based on [Chromium][Chromium] with other [Datorium][Datorium] students.
+- 📖 I enjoy finding out something new that could be used later on in life in the most efficient way possible.
+- 🎞 I'm amateur in video-editing, for example in [Wondershare Filmora][Filmora].
 
 <br/>
 
@@ -25,7 +25,7 @@
 * <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> Visual Studio 2019
 * <img width="18px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> Visual Studio Code
 
-[![Wolferados's github stats](https://github-readme-stats.vercel.app/api?username=Wolferado&theme=dark&text_color=FFD700&icon_color=FFD700&show_owner=false)](https://github.com/Wolferado/github-readme-stats)
+[![Wolferados's github stats](https://github-readme-stats.vercel.app/api?username=Wolferado&theme=dark&text_color=FFD700&icon_color=FFD700)](https://github.com/Wolferado/github-readme-stats)
 
 [![The most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolferado&theme=dark)](https://github.com/Wolferado/github-readme-stats)
 
