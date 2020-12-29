@@ -1,6 +1,6 @@
 # Welcome to my profile, average GitHub member! #
 
-## _My name is Wolferado and I'm typical student who is interested in the World of programming._ ##
+## _My name is Aleksey Karelin (Wolferado) and I'm typical student who is interested in the World of programming._ ##
 
 ### Some useful facts about me: ###
 - 🎓 I'm a student at European Coding School [Datorium][Datorium].
