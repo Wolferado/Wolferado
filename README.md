@@ -12,7 +12,7 @@
 <br/>
 
 ### Languages I experiment and work with: ###
-* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" /> CSharp
+* <img width="16px" src="https://habrastorage.org/getpro/habr/post_images/cb4/bec/1cd/cb4bec1cde8e695b2b449a4dfb179668.png" /> CSharp
 * <img width="16px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" /> JavaScript
 * <img width="16px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" /> Cascading Style Sheets
 * <img width="16px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" /> HyperText Markup Language
