@@ -15,7 +15,7 @@
   
 - Former Student at European Coding School [Datorium](https://datorium.eu/) 💻
 
-- Worked at [MSC](https://www.msc.com/) Shared Service Center Riga 📦
+- Worked at [MSC](https://www.msc.com/) Shared Service Center Riga as Data Processing Intern 📦
 
 ## 💡 _Skillsets_
 
