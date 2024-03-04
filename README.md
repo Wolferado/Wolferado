@@ -3,8 +3,8 @@
 <div align=center> 
   
 ### Local meme dealer and hard working guy ~~(this will be my downfall)~~. 
+[![Portfolio](https://img.shields.io/badge/Portfolio-b0d1ff?style=for-the-badge&logo=react&logoColor=22272e&link=https://wolferado.github.io/wolferado-portfolio/)](https://wolferado.github.io/wolferado-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&logoWidth=16&link=https://www.linkedin.com/in/karelin-aleksey/)](https://www.linkedin.com/in/karelin-aleksey/) 
-
 </div>
 
 ## 📜 _About_
