@@ -9,7 +9,7 @@
 
 ## 📜 _About_
 
-- [RTU](https://www.rtu.lv/en) [DITF](https://www.rtu.lv/en/university/structure-and-administration/faculties/computer-science-and-information-technology) Student since 2021 🏫
+- [RTU](https://www.rtu.lv/en) [DITEF](https://www.rtu.lv/en/university/structure-and-administration/faculties/computer-science-and-information-technology) Student since 2021 🏫
   
 - Completed [Accenture](https://www.accenture.com/) **MICROSOFT.NET** Bootcamp 🏕️
   
