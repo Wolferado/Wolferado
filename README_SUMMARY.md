@@ -46,6 +46,13 @@ Color HSL: `hsl(212, 92%, 45%)`
 
 <hr>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+<hr>
+
 Example for the links: This site was built using [GitHub Pages](https://pages.github.com/).
 
 Example for relative links (inside the projects): [Contribution guidelines for this project](docs/CONTRIBUTING.md)
