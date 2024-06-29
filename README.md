@@ -8,13 +8,11 @@
 
 ## 📜 _About_
 
-- [RTU](https://www.rtu.lv/en) [DITEF](https://www.rtu.lv/en/university/structure-and-administration/faculties/computer-science-and-information-technology) Student since 2021 🏫
+- Received Engineering Bachelor degree in intelligent computer technologies at [RTU](https://www.rtu.lv/en) 🏫
   
 - Completed [Accenture](https://www.accenture.com/) **MICROSOFT.NET** Bootcamp 🏕️
   
 - Former Student at European Coding School [Datorium](https://datorium.eu/) 💻
-
-- Worked at [MSC](https://www.msc.com/) Shared Service Center Riga as Data Processing Intern 📦
 
 ## 💡 _Skillsets_
 
